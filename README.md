@@ -18,7 +18,7 @@ Fila (Queue): primeiro elemento a entrar é o primeiro a sair (FIFO)
 ## 🗂 Estrutura do Repositório
 
 ```bash
-exercicios-js/
+typeScript/
 │
 ├── ExFilaPilha/
 │   ├── Ex1Fila.js

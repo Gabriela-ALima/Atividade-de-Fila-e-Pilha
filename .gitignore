@@ -1,0 +1,46 @@
+# ========================
+# 🧠 PROJETO TYPESCRIPT — EXERCÍCIOS DE FILA E PILHA
+# ========================
+
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Compilação TypeScript
+dist/
+*.js
+*.js.map
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Variáveis de ambiente
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# ========================
+# 🗂️ PASTAS E ARQUIVOS DE AULAS ANTIGAS
+# ========================
+EstruturaDeDados/
+Array.ts
+EntradaDeDados.ts
+HelloWorld.ts
+Set.ts
+Variaveis.ts
+
+# ========================
+# 🧩 OUTROS (se quiser ignorar testes ou temporários)
+# ========================
+__tests__/
+temp/
+backup/

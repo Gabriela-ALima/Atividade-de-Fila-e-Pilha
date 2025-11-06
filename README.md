@@ -13,18 +13,15 @@ Pilha (Stack): último elemento a entrar é o primeiro a sair (LIFO)
 
 Fila (Queue): primeiro elemento a entrar é o primeiro a sair (FIFO)
 
-🗂 Estrutura do Projeto
-/
-├── ExFilaPilha/
-│   ├── Ex1Pilha.ts        # Exercício 1 — Pilha (LIFO)
-│   ├── Ex2Pilha.ts        # Exercício 2 — Fila (FIFO)
-│   ├── Stack.ts           # Implementação da classe Pilha
-│   └── Queue.ts           # Implementação da classe Fila
-│
-├── package.json
-├── tsconfig.json
-├── .gitignore
-└── README.md
+📁 Projeto
+├── 📁 ExFilaPilha
+│ ├── Ex1Pilha.ts
+│ ├── Ex2Fila.ts
+│ ├── Stack.ts
+│ ├── Queue.ts
+├── 📄 package.json
+├── 📄 README.md
+├── 📄 .gitignore
 
 
 Apenas os exercícios e implementações estão dentro da pasta ExFilaPilha.
